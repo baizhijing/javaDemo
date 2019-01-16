@@ -23,7 +23,6 @@ public class Demo4 {
             }
             System.out.println(a);
         }
-
     }
     public static boolean isZhishu(int a){
         for (int i=2;i<Math.sqrt(a);i++){
